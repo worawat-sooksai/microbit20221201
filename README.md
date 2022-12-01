@@ -1,11 +1,11 @@
 
-note 1: download serial monitor example tera term for read button and acceleration <br>
+<!-- note 1: download serial monitor example tera term for read button and acceleration <br>
 <a href="https://osdn.net/projects/ttssh2/downloads/74780/teraterm-4.106.exe/" target="blank">
 https://osdn.net/projects/ttssh2/downloads/74780/teraterm-4.106.exe/ </a>
 <br>
 โน๊ต 1 : ดาวโหลดและติดตั้ง โปรแกรมสำหรับอ่านค่า จากสาย usb <br>
 <a href="https://osdn.net/projects/ttssh2/downloads/74780/teraterm-4.106.exe/" target="blank">
-  https://osdn.net/projects/ttssh2/downloads/74780/teraterm-4.106.exe/ </a>
+  https://osdn.net/projects/ttssh2/downloads/74780/teraterm-4.106.exe/ </a> -->
 
 > Open this page at [https://worawat-sooksai.github.io/microbit20221201/](https://worawat-sooksai.github.io/microbit20221201/)
 
