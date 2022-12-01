@@ -1,4 +1,11 @@
 
+note 1: download serial monitor example tera term for read buttom and acceleration 
+<a href="https://osdn.net/projects/ttssh2/downloads/74780/teraterm-4.106.exe/" target="blank">
+https://osdn.net/projects/ttssh2/downloads/74780/teraterm-4.106.exe/ </a>
+โน๊ต 1 : ดาวโหลดและติดตั้ง โปรแกรมสำหรับอ่านค่า จากสาย usb
+<a href="https://osdn.net/projects/ttssh2/downloads/74780/teraterm-4.106.exe/" target="blank">
+  https://osdn.net/projects/ttssh2/downloads/74780/teraterm-4.106.exe/ </a>
+
 > Open this page at [https://worawat-sooksai.github.io/microbit20221201/](https://worawat-sooksai.github.io/microbit20221201/)
 
 ## Use as Extension
@@ -29,3 +36,5 @@ This image may take a few minutes to refresh.
 
 * for PXT/microbit
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+
+
